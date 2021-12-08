@@ -1,1 +1,1 @@
-"# Cafe-Otomasyon" 
+Cafe Otomasyon Sistemi 
